@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Troque pela URL do logo quando tiver. Sugestão: 200px de largura -->
-<img src="./assets/koinlet-logo.png" alt="Koinlet" width="180" />
+<!-- Banner (Unsplash, licença livre). Troque pela arte oficial quando tiver. -->
+<img src="https://images.unsplash.com/photo-1426647644047-85304d236d05?auto=format&fit=crop&w=1200&h=320&q=80" alt="Koinlet" width="100%" style="max-width:900px;border-radius:12px;" />
 
 # Koinlet
 
@@ -36,6 +36,10 @@ O Koinlet ataca os três: centraliza a operação, **mede** o que cada um faz e 
 ---
 
 ## ✨ O que o Koinlet faz
+
+<div align="center">
+<img src="https://images.unsplash.com/photo-1760169799369-2b8574466735?auto=format&fit=crop&w=900&h=300&q=80" alt="Equipe de cozinha em operação" width="100%" style="max-width:760px;border-radius:12px;" />
+</div>
 
 ### 🧩 Gestão simplificada
 Operação do salão e da cozinha num só lugar — pedidos, comandas, produtos e equipe sem depender de mil ferramentas soltas.
