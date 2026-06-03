@@ -55,19 +55,6 @@ Quem está produzindo, onde estão os gargalos e como a equipe evolui ao longo d
 
 ---
 
-## 🛠️ Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-</div>
-
----
-
 ## 🚧 Status
 
 O Koinlet está em **desenvolvimento ativo**. Estamos construindo a base da plataforma e validando o modelo de gamificação com operações reais de bares e restaurantes.
